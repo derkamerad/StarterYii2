@@ -3,7 +3,7 @@
 /vhost.conf
 
 # composer
-/vendor
+#/vendor
 composer.phar
 ## remove in production!
 composer.lock

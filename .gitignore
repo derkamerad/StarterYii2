@@ -1,3 +1,13 @@
+# Env
+/.env
+/vhost.conf
+
+# composer
+/vendor
+composer.phar
+## remove in production!
+composer.lock
+
 assets/*
 !assets/.gitignore
 protected/runtime/*
